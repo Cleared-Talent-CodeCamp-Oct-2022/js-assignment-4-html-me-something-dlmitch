@@ -1,1 +1,50 @@
-/* Write your CSS here! */
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+
+  margin: 8px;
+
+  padding: 30px;
+}
+
+h2 {
+  color: blue);
+  text-align: center;
+  font-size: 50 px;
+}
+#mainHeading {
+    color: red;
+
+}
+.center {
+    text-align: center;
+ }
+img { 
+    margin: auto; 
+}
+p {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  margin: 30px;
+  display: block;
+}
+.funParagraph {
+    color: green;
+}
+div {
+    padding: 40px;
+    border: 4px solid #blue;
+    border-style: solid;
+    word-spacing: 10px;
+
+  }
+  a {
+    text-decoration: none;
+}
+  </style>
+
+  </head>
+  </html>
